@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Astronaut
+  - Bomb
+  - Spheres
+  - Cubes
+  - Meteor
+  - Capsules
+  - Bullet
+  - Missile
+  - Laser
+  - SmallStones
+  - PowerUp
+  - Undefined
+  - Stones
+  - Stones1
+  - Enemy
+  - BigMonster
+  - EnemyRocket
+  - EnemyFire
+  - HealingPowerUp
+  - ShieldPowerUp
+  - ShieldObj
+  - X2PowerUp
+  - HidePowerUp
+  - HiddenPlayer
+  - TripleShuotPowerUp
+  - BossEnemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Background
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2058198915
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 1759619847
+    locked: 0
